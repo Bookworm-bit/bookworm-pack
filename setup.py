@@ -7,7 +7,7 @@ setuptools.setup(
     name='bookworm',
     version='0.0.1',
     author='Bookworm-bit',
-    author_email='ez2630130@gmail.com',
+    author_email='devworm69@gmail.com',
     description='Collection of random functions that might be useful',
     long_description=long_description,
     long_description_content_type="text/markdown",
