@@ -12,11 +12,11 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url='https://github.com/Bookworm-bit/bookworm-pack',
-    project_urls = {
+    project_urls={
         "Issues": "https://github.com/Bookworm-bit/bookworm-pack/issues"
         "Website": "https://devworm.tk/"
     },
     license='MIT',
     packages=['bookworm'],
-    install_requires=['requests, discord'],
+    install_requires=['time'],
 )
